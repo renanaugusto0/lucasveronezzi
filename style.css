@@ -31,8 +31,8 @@ body {
 
 #perfil {
     border-radius: 50%;
-    max-height: 60%;
-    width: auto;
+    max-width: 300px;
+    width: 50%;
 }
 
 #blue {
@@ -42,7 +42,7 @@ body {
 .logo {
     width: 20%;
     height: auto;
-    max-width: 100px;
+    max-width: 80px;
     border-radius: 50%;
     margin-right: 10px;
 }
@@ -69,4 +69,7 @@ nav {
 .accordion-button:not(.collapsed) {
     background-color: #ff9500;
     color: #fff;
+}
+#diferencial {
+    border-radius: 0px;
 }
